@@ -80,19 +80,3 @@ This project implements an authentication service using Iris Biometrics, offerin
 
 - Various endpoints to interact with the sequencer for batching and proof verification.
 
-[//]: # (## Contributing)
-
-[//]: # ()
-[//]: # (If you would like to contribute to this project, please follow the [CONTRIBUTING.md]&#40;CONTRIBUTING.md&#41; guidelines.)
-
-[//]: # ()
-[//]: # (## License)
-
-[//]: # ()
-[//]: # (This project is licensed under the MIT License - see the [LICENSE.md]&#40;LICENSE.md&#41; file for details.)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # ()
-[//]: # (Feel free to modify this README to align more closely with the specific details of your project.)

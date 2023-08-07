@@ -1,0 +1,9 @@
+opencv-python
+numpy
+jupyter
+scipy
+shapely
+scikit-image
+PyWavelets
+fastapi[all]
+sqlalchemy

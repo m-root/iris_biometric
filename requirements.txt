@@ -7,3 +7,4 @@ scikit-image
 PyWavelets
 fastapi[all]
 sqlalchemy
+aiologger
